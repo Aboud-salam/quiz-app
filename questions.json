@@ -1,0 +1,107 @@
+[
+    {
+        "title": "A webpage displays a picture. What tag was used to display that picture?",
+        "answer_1": "<image>",
+        "answer_2": "<img>",
+        "answer_3": "<video>",
+        "right-answer": "<img>"
+    },
+    {
+        "title": "<b> tag makes the enclosed text bold. What is other tag to make text bold?",
+        "answer_1": "<bold>",
+        "answer_2": "<italic>",
+        "answer_3": "<strong>",
+        "right-answer": "<strong>"
+    },
+    {
+        "title": "Tags and test that are not directly displayed on the page are written in _____ section",
+        "answer_1": "<body>",
+        "answer_2": "<head>",
+        "answer_3": "<html>",
+        "right-answer": "<head>"
+    },
+    {
+        "title": "Which tag inserts a line horizontally on your web page?",
+        "answer_1": "<hr>",
+        "answer_2": "<r>",
+        "answer_3": "<ruler>",
+        "right-answer": "<hr>"
+    },
+    {
+        "title": "What should be the first tag in any HTML document?",
+        "answer_1": "<bold>",
+        "answer_2": "<html>",
+        "answer_3": "<head>",
+        "right-answer": "<html>"
+    },
+    {
+        "title": "Which tag allows you to add a row in a table?",
+        "answer_1": "<td>",
+        "answer_2": "<th>",
+        "answer_3": "<tr>",
+        "right-answer": "<tr>"
+    },
+    {
+        "title": "How can you make a bulleted list",
+        "answer_1": "<ul>",
+        "answer_2": "<ol>",
+        "answer_3": "<li>",
+        "right-answer": "<ul>"
+    },
+    {
+        "title": "How can you make a numbered list?",
+        "answer_1": "<ul>",
+        "answer_2": "<r>",
+        "answer_3": "<ol>",
+        "right-answer": "<ol>"
+    },
+    {
+        "title": "How can you make an e-mail link",
+        "answer_1": "<a href=”mailto:xxx@yyy”>",
+        "answer_2": "<mail href=”xxx@yyy”>",
+        "answer_3": "<mail>xxx@yyy</mail>",
+        "right-answer": "<a href=”mailto:xxx@yyy”>"
+    },
+    {
+        "title": "What is the correct HTML for making a hyperlink?",
+        "answer_1": "<a name=”http://mcqmate.com”>ICT Trends Quiz</a>",
+        "answer_2": "<a href=”http://mcqmate.com”>ICT Trends Quiz</a>",
+        "answer_3": "<a url=”http://mcqmate.com”>ICT Trends Quiz</a>",
+        "right-answer": "<a href=”http://mcqmate.com”>ICT Trends Quiz</a>"
+    },
+    {
+        "title": "Choose the correct HTML tag to make a text italic",
+        "answer_1": "<i>",
+        "answer_2": "<img>",
+        "answer_3": "<italic>",
+        "right-answer": "<i>"
+    },
+    {
+        "title": "Choose the correct HTML tag to make a text bold?",
+        "answer_1": "<bold>",
+        "answer_2": "<b>",
+        "answer_3": "<h>",
+        "right-answer": "<b>"
+    },
+    {
+        "title": "What is the correct HTML for adding a background color?",
+        "answer_1": "<body color=”yellow”>",
+        "answer_2": "<body bgcolor=”yellow”>",
+        "answer_3": "<background>yellow</background>",
+        "right-answer": "<body bgcolor=”yellow”>"
+    },
+    {
+        "title": "Choose the correct HTML tag for the smallest size heading?",
+        "answer_1": "<hr>",
+        "answer_2": "<h6>",
+        "answer_3": "<header>",
+        "right-answer": "<h6>"
+    },
+    {
+        "title": "What is the correct HTML tag for inserting a line break?",
+        "answer_1": "<br>",
+        "answer_2": "<break>",
+        "answer_3": "<head>",
+        "right-answer": "<br>"
+    }
+]
